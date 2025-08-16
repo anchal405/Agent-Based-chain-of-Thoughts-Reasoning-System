@@ -1,0 +1,7 @@
+langgraph
+crewai
+groq
+langchain
+python-dotenv  
+crewai[tools]
+
